@@ -1,7 +1,7 @@
 body {
     font-family: Verdana,sans-serif;
-    font-size: 14px;
-    line-height: 1.5;
+    font-size: 0.875em;
+    line-height: 1.5px;
     letter-spacing: 0.8px;
     line-height: 22.5px;
     width: 100%;
@@ -31,7 +31,7 @@ a:hover {
 
 .navbar-brand {
     font-size: 18px;
-    letter-spacing:3px;    
+    letter-spacing:2.5px;    
 }
 
 .nav-item {
@@ -48,6 +48,9 @@ a:hover {
     color: #212529;
 }
 
+.navbar-toggler {
+    padding: 3px;
+}
 
 .display-3 {
     font-size:22px;
