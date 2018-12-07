@@ -1,6 +1,6 @@
 # Espazo Caritel
 
-:black_joker: First version of espazocaritel.com site.
+:herb: First version of espazocaritel.com site.
 
 ## Install
 
