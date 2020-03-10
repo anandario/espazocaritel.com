@@ -29,7 +29,7 @@ a:hover {
 }
 
 .navbar-brand {
-    font-size: 18px;
+    font-size: 18px !important;
     letter-spacing: 2.5px;
 }
 
@@ -51,8 +51,12 @@ a:hover {
     padding: 3px;
 }
 
-.display-3 {
+.h4 {
     font-size: 22px;
+}
+
+.display-3 {
+    font-size: 22px !important;
     color: #504e4e;
     border-bottom: 1px solid #f1f1f1;
     letter-spacing: 3px;
